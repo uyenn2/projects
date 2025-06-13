@@ -9,7 +9,7 @@
         <li>Skills: Python, GIS, SQL (within our internal system)</li>
         <li>Publication: https://doi.org/10.5860/dttp.v52i3.8343 </li>
       </ul>
-  <li>Using Electronic Resource Tickets to Assess E-Resource Management and Service Effectiveness</li>
+  <li><b>Using Electronic Resource Tickets to Assess E-Resource Management and Service Effectiveness</b></li>
         <ul>
         <li>In this project, I analyzed the data of reported tickets</li>
         <li>Skills: Python </li>
