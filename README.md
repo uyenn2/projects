@@ -15,7 +15,12 @@
         <li>Skills: Python </li>
         <li>Presentation: https://sunyla.org/sunyla_docs/conferences/presentations/midwinter24/SUNYLA_Midwinter_2024_Fry_Lechowicz_Nguyen.pdf </li>
       </ul>
-  <li>Engel Project</li>
+  <li><b>Engel Project</b></li>
+        <ul>
+        <li>In this project, I analyzed our book collection for leisure reading in medical library. </li>
+        <li>Skills: Python </li>
+        <li>Presentation: </li>
+      </ul>
 </ul>
 
 <h2>Classes</h2>
