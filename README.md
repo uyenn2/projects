@@ -3,7 +3,7 @@
 
 <h2>Professional</h2>
 <ul>
-  <li>Visualizing the International Government Information Collection at University of Illinois in Urbana-Champaign</li>
+  <li><b>Visualizing the International Government Information Collection at University of Illinois in Urbana-Champaign</b></li>
         <ul>
         <li>In this project, I analyzed the data of the government collection at UIUC.</li>
         <li>Skills: Python, GIS, SQL (within our internal system)</li>
