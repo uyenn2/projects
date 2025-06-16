@@ -15,10 +15,16 @@
         <li>Skills: Python </li>
         <li>Presentation: https://sunyla.org/sunyla_docs/conferences/presentations/midwinter24/SUNYLA_Midwinter_2024_Fry_Lechowicz_Nguyen.pdf </li>
       </ul>
-  <li><b>Engel Project</b></li>
+  <li><b><a href = "https://github.com/uyenn2/engel-public"> Engel Project</a></b></li>  
         <ul>
         <li>In this project, I analyzed our book collection for leisure reading in medical library. </li>
-        <li>Skills: Python </li>
+        <li>Skills: Python, SQL </li>
+        <li>Presentation: </li>
+      </ul>
+  <li><b>Analyze Research Citations</b></li>
+        <ul>
+        <li>ABout: . </li>
+        <li>Skills: Python, SQL </li>
         <li>Presentation: </li>
       </ul>
 </ul>
