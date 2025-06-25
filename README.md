@@ -5,13 +5,13 @@
 <ul>
   <li><b>Visualizing the International Government Information Collection at University of Illinois in Urbana-Champaign</b></li>
         <ul>
-        <li>In this project, I analyzed the data of the government collection at UIUC.</li>
+        <li>About: In this project, I conducted analysis of the international government information collection at UIUC to gain insights regarding the collection for future program planning and related services.</li>
         <li>Skills: Python, GIS, SQL (within our internal system)</li>
         <li>Publication: https://doi.org/10.5860/dttp.v52i3.8343 </li>
       </ul>
   <li><b>Using Electronic Resource Tickets to Assess E-Resource Management and Service Effectiveness</b></li>
         <ul>
-        <li>In this project, I analyzed the data of reported tickets</li>
+        <li>About: In this project, I analyzed access problems troubleshooting tickets in our Electronic Resources Unit Team. </li>
         <li>Skills: Python </li>
         <li>Presentation: https://sunyla.org/sunyla_docs/conferences/presentations/midwinter24/SUNYLA_Midwinter_2024_Fry_Lechowicz_Nguyen.pdf </li>
       </ul>
@@ -23,7 +23,7 @@
       </ul>
   <li><b>Analyze Research Citations</b></li>
         <ul>
-        <li>ABout: . </li>
+        <li>About: . </li>
         <li>Skills: Python, SQL </li>
         <li>Presentation: </li>
       </ul>
