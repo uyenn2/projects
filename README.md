@@ -7,25 +7,24 @@
         <ul>
         <li>About: In this project, I conducted analysis of the international government information collection at UIUC to gain insights about the collection for future program planning and related services.</li>
         <li>Skills: Python, GIS, SQL (within our internal system)</li>
-        <li>Publication: https://doi.org/10.5860/dttp.v52i3.8343 </li>
+        <li>Publication: Nguyen, Uyen. “Visualizing the International Government Information Collection at University of Illinois in Urbana-Champaign," DttP: Documents to the People, Vol 52, No 3 (2024), https://doi.org/10.5860/dttp.v52i3.8343 </li>
       </ul>
   <li><b>Using Electronic Resource Tickets to Assess E-Resource Management and Service Effectiveness</b></li>
         <ul>
         <li>About: In this project, I analyzed access problems tickets in our Electronic Resources Unit Team to understand access problems our patrons encountered and gain insights into our workflows. </li>
         <li>Skills: Python </li>
-        <li>Presentation: https://sunyla.org/sunyla_docs/conferences/presentations/midwinter24/SUNYLA_Midwinter_2024_Fry_Lechowicz_Nguyen.pdf </li>
+        <li>Presentation: 2024 SUNYLA Midwinter Online Conference: Using Electronic Resource Tickets to Assess E-Resource Management and Service Effectiveness (Co-presenting with Amy Fry and Sam Lechowicz) , https://sunyla.org/sunyla_docs/conferences/presentations/midwinter24/SUNYLA_Midwinter_2024_Fry_Lechowicz_Nguyen.pdf </li>
       </ul>
   <li><b><a href = "https://github.com/uyenn2/engel-public"> Engel Project</a></b></li>  
         <ul>
-        <li>About: In this project, I analyzed our book collection for leisure reading in medical library. </li>
+        <li>About: In this project, I analyzed our book collection for leisure reading at Duke Medical Center Library. </li>
         <li>Skills: Python, SQL </li>
-        <li>Presentation: </li>
+        <li>Presentation: Special Library Association (SLA) Midwest Symposium (co-presenting with Katherine Carlson). </li>
       </ul>
   <li><b>Analyze Research Citations</b></li>
         <ul>
-        <li>About: . </li>
+        <li>About: I'm currently looking at research outputs of Duke Health affliated faculty to determine how much of the reference materials use library resources. </li>
         <li>Skills: Python, SQL </li>
-        <li>Presentation: </li>
       </ul>
 </ul>
 
