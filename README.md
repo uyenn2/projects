@@ -1,4 +1,4 @@
-# Uyen's Project
+# Uyen's Projects
 <p>Hi there! These are some of the project I did </p>
 
 <h2>Professional</h2>
