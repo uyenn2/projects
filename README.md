@@ -1,5 +1,5 @@
 # Uyen's Projects
-<p>Hi there! These are some of the project I did </p>
+<p>Hi there! These are some of the projects I did </p>
 
 <h2>Professional</h2>
 <ul>
