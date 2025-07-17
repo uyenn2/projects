@@ -37,7 +37,7 @@
       </ul>
   <li><b><a href = "https://github.com/uyenn2/is455-data-viz">Data Visualization Courses</a></b></li>
         <ul>
-        <li> List of smaller projects completed during my Data Visualization courses at UIUC. Besides visualization, we also explore gain skills data processing and data stroytelling. </li>
+        <li> List of smaller projects completed during my Data Visualization courses at UIUC. Besides visualization, we also explored and gained skills in data processing and data stroytelling. </li>
         <li>Skills: Python</li>
       </ul>
   <li>Cataloging portfolio - examining metatadata of bibliogrphic record in library</li>
